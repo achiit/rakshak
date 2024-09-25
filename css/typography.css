@@ -122,15 +122,15 @@ textarea { padding: 10px 0 0 10px; border-radius: .25rem; }
 Background overlay color
 -----------------------------------------------------------------------*/
 /* Background Gradient Black */
-.bg-over-main-10:before { background: rgba(103, 84, 217, 0.1); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
-.bg-over-main-20:before { background: rgba(103, 84, 217, 0.2); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
-.bg-over-main-30:before { background: rgba(103, 84, 217, 0.3); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
-.bg-over-main-40:before { background: rgba(103, 84, 217, 0.4); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
-.bg-over-main-50:before { background: rgba(103, 84, 217, 0.5); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
-.bg-over-main-60:before { background: rgba(103, 84, 217, 0.6); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
-.bg-over-main-70:before { background: rgba(103, 84, 217, 0.7); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
-.bg-over-main-80:before { background: rgba(103, 84, 217, 0.8); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
-.bg-over-main-90:before { background: rgba(103, 84, 217, 0.9); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-10:before { background: rgba(251, 120, 44, 0.1); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-20:before { background: rgba(251, 120, 44, 0.2); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-30:before { background: rgba(251, 120, 44, 0.3); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-40:before { background: rgba(251, 120, 44, 0.4); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-50:before { background: rgba(251, 120, 44, 0.5); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-60:before { background: rgba(251, 120, 44, 0.6); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-70:before { background: rgba(251, 120, 44, 0.7); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-80:before { background: rgba(251, 120, 44, 0.8); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
+.bg-over-main-90:before { background: rgba(251, 120, 44, 0.9); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
 
 .bg-over-black-10:before { background: rgba(0, 0, 0, 0.1); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
 .bg-over-black-20:before { background: rgba(0, 0, 0, 0.2); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
@@ -146,7 +146,7 @@ Background overlay color
 10  Back to Top
 -----------------------------------------------------------------------*/
 #back-to-top .top { z-index: 999; position: fixed; margin: 0px; color: #fff; background: #333333; position: fixed; bottom: 25px; right: 25px; z-index: 999; font-size: 26px; width: 50px; height: 50px; text-align: center; line-height: 50px; border-radius: 90px; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
-#back-to-top .top:hover { background: #E85C0D; color: #fff; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); }
+#back-to-top .top:hover { background: #e85c0d; color: #fff; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); }
 
 
 /*---------------------------------------------------------------------
