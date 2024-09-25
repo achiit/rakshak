@@ -41,14 +41,14 @@ Design and Developed by: iqonicthemes.in
 /*---------------------------------------------------------------------
 3 General
 -----------------------------------------------------------------------*/
-*::-moz-selection { background: #6754d9; color: #ffffff; text-shadow: none; }
-::-moz-selection { background: #6754d9; color: #ffffff; text-shadow: none; }
-::selection { background: #6754d9; color: #ffffff; text-shadow: none; }
+*::-moz-selection { background: #E85C0D; color: #ffffff; text-shadow: none; }
+::-moz-selection { background: #E85C0D; color: #ffffff; text-shadow: none; }
+::selection { background: #E85C0D; color: #ffffff; text-shadow: none; }
 body { font-family: 'Open Sans', sans-serif; font-weight: normal; font-style: normal; font-size: 16px; line-height: 2em; color: #666666; }
 a, .btn, .button { -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; transition: all 0.3s ease-out 0s; }
 a:focus { text-decoration: none !important; }
-a:focus, a:hover { color: #6754d9; text-decoration: none !important; }
-a, button { outline: medium none !important; color: #6754d9; }
+a:focus, a:hover { color: #E85C0D; text-decoration: none !important; }
+a, button { outline: medium none !important; color: #E85C0D; }
 .uppercase { text-transform: uppercase; }
 h1, h2, h3, h4, h5, h6 { margin-top: 0px; color: #000000;  font-family: 'Open Sans', sans-serif;}
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; }
@@ -80,7 +80,7 @@ section { padding: 100px 0; }
 -----------------------------------------------------------------------*/
 .form-control, textarea { border: 1px solid #dddddd; outline: none; box-shadow: inherit !important; border-radius: 0px !important;}
 textarea { padding: 10px 0 0 10px; border-radius: .25rem; }
-.form-control:hover, .form-control:focus, textarea:focus, textarea:hover { border: 1px solid #6754d9; border-radius: 0px !important;}
+.form-control:hover, .form-control:focus, textarea:focus, textarea:hover { border: 1px solid #E85C0D; border-radius: 0px !important;}
 
 
 /*---------------------------------------------------------------------
@@ -89,7 +89,7 @@ textarea { padding: 10px 0 0 10px; border-radius: .25rem; }
 .text-white { color: #ffffff; }
 .text-gray { color: #666666; }
 .text-black { color: #000000; }
-.text-main { color: #6754d9; }
+.text-main { color: #E85C0D; }
 
 
 /*---------------------------------------------------------------------
@@ -102,15 +102,15 @@ textarea { padding: 10px 0 0 10px; border-radius: .25rem; }
 /*---------------------------------------------------------------------
 7 Button
 -----------------------------------------------------------------------*/
-.button { background:  #6754d9; color: #ffffff; padding: 15px 30px; display: inline-block;border: 3px solid transparent; text-decoration: none !important; font-size: 16px; line-height: 16px; font-weight: 600;letter-spacing: 1px;cursor: pointer; }
-.button:hover, .button:focus { color: #6754d9; background:  #ffffff; border: 2px solid #6754d9;}
+.button { background:  #E85C0D; color: #ffffff; padding: 15px 30px; display: inline-block;border: 3px solid transparent; text-decoration: none !important; font-size: 16px; line-height: 16px; font-weight: 600;letter-spacing: 1px;cursor: pointer; }
+.button:hover, .button:focus { color: #E85C0D; background:  #ffffff; border: 2px solid #E85C0D;}
 
 /*---------------------------------------------------------------------
 8 Background  color
 -----------------------------------------------------------------------*/
 .white-bg { background: #ffffff; }
 .gray-bg { background: #ecdfdf }
-.main-bg { background: #6754d9; }
+.main-bg { background: #E85C0D; }
 .black-bg { background: #828286; }
 
 /*************************
@@ -146,7 +146,7 @@ Background overlay color
 10  Back to Top
 -----------------------------------------------------------------------*/
 #back-to-top .top { z-index: 999; position: fixed; margin: 0px; color: #fff; background: #333333; position: fixed; bottom: 25px; right: 25px; z-index: 999; font-size: 26px; width: 50px; height: 50px; text-align: center; line-height: 50px; border-radius: 90px; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
-#back-to-top .top:hover { background: #6754d9; color: #fff; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); }
+#back-to-top .top:hover { background: #E85C0D; color: #fff; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); }
 
 
 /*---------------------------------------------------------------------
